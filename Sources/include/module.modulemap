@@ -1,5 +1,5 @@
-module CLibvenice {
+module CMicroECC {
     header "../uECC.h"
-    link "CLibvenice"
+    link "CMicroECC"
     export *
 }
