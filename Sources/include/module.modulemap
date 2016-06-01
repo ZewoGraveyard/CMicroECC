@@ -1,0 +1,5 @@
+module CLibvenice {
+    header "../uECC.h"
+    link "CLibvenice"
+    export *
+}
